@@ -13,7 +13,7 @@ public class ReverseString {
 			reverse = reverse + arr[i]; 
 			
 		}
-		
+		System.out.println("Reverse String : "+reverse)
 	}
 
 }
